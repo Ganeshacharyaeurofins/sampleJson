@@ -1,0 +1,16 @@
+{
+  "UnSavedChanges": " Toute modification non enregistrée sera perdue lors de la fermeture de l'écran. Voulez-vous continuer?",
+  "Continue": "Confirmer",
+  "Yes": "Oui",
+  "No": "Non",
+  "ErrorWhileFetchingLabSiteDetails": "Erreur lors de la récupération des détails du site de laboratoire.",
+  "Footer": {
+    "PrivacyPolicyText": "Politique de confidentialité"
+  },
+  "LabsiteInformation": {
+    "DataPrivacyPageHeaderText": "La confidentialité des données",
+    "TermsOfUseHeaderText": "Conditions d'utilisation",
+    "VolunteerRulesPageHeaderText": "Règles des bénévoles",
+    "ErrorWhileFetchingLabsiteInformation": "Erreur lors de la récupération des informations détaillées."
+  }
+}
