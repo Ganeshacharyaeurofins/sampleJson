@@ -1,0 +1,85 @@
+{
+  "Profile": {
+    "ProfileHeader": "Profile",
+    "MyAccount": "My Account",
+    "MyActivity": "My Activity"
+  },
+  "MyAccount": {
+    "MyAccountHeader": "My Information",
+    "VolunteerCode": "Volunteer Code",
+    "EmailAddress": "EMAIL ADDRESS",
+    "ContactAddress": "CONTACT & ADDRESS",
+    "Mobile": "Mobile",
+    "Home": "Home",
+    "Alternative": "Alternative",
+    "Address": "Address",
+    "Zipcode": "Zip Code",
+    "City": "City",
+    "State": "State",
+    "DeleteAccount": "DELETE ACCOUNT",
+    "DeleteAccountText": "If you want to delete your account, please contact our team as per instructions in the ",
+    "DataPrivacyPageLinkText": "Data Privacy page. ",
+    "DeleteAccountAdditionalText": " Please note that once your account is deleted, you will no longer be able to log in or apply to any study.",
+    "SignOut": "Sign Out",
+    "Edit": "Edit"
+  },
+  "ActiveStudies": {
+    "ActiveStudiesHeader": "Active Studies",
+    "NoResult": "No Active Studies",
+    "FilterOptions": {
+      "AllStudies": "All",
+      "Male": "Male",
+      "FemaleStudies": "Female"
+    },
+    "ContentHeader": {
+      "StudyCode": "Code",
+      "RecruitmentFlag": "Urgent Study",
+      "ProductDescription": "Product Description",
+      "Gender": "Gender",
+      "Age": "Age",
+      "Payment": "Payment",
+      "StudyDuration": "Study Duration",
+      "Apply": "Apply"
+    }
+  },
+  "Visit": {
+    "VisitDateAndTime": {
+      "VisitDate": "Visit Date",
+      "StartTime": "Start Time",
+      "SelectStartTime": "Select Start Time",
+      "EndTime": "End Time",
+      "VisitDateRequired": "Visit Date is required",
+      "StartTimeRequired": "Start Time is required",
+      "TimeSlotsNotAvailable": "There are no visit time slots available for this date",
+      "UnableToFetchUnavailableDates": "Unable to fetch unavailable dates.",
+      "UnableToFetchCalendarSettings": "Unable to fetch calendar settings.",
+      "VisitConfigNotAvailable": "There is no timeslot available for the labsite",
+      "UnableToFetchVolunteerVisit": "Unable to fetch volunteer visit details",
+      "UnableToFetchTimeSlots": "Unable to fetch time slots"
+    },
+    "RegistrationVisit": "Registration Visit",
+    "Close": "Close",
+    "Confirm": "Confirm",
+    "SelectTimeSlotHeader": "Select a time slot"
+  },
+  "MyActivity": {
+    "MyActivityHeader": "My Activity",
+    "RegistrationVisit": "REGISTRATION VISIT",
+    "RegistrationDone": "You are almost done with your registration!",
+    "BookVisit": "Select an available timeslot for your visit.",
+    "VisitLaboratory": "To complete the registration process and be able to apply for studies, you need to visit the laboratory.",
+    "SelectTimeSlot": "Select a time slot",
+    "VisitBooked": "Your registration visit has been booked successfully",
+    "Status": "Status",
+    "Date": "Date",
+    "Time": "Time",
+    "ChangeVisit": "If you need to change your visit date and/or time, please ",
+    "ContactLaboratory": "contact the laboratory.",
+    "Pending": "Pending",
+    "Approved": "Approved"
+  },
+  "TodayButtonLabel": "Today",
+  "TodayButtonTooltip": "Select Today's Date",
+  "DateButtonTooltip": "Select a date",
+  "ClearButtonTooltip": "Remove the selected date"
+}

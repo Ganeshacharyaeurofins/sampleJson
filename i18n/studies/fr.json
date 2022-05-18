@@ -1,0 +1,108 @@
+{
+    "ActiveStudies": {
+        "Validation": {
+            "UserNotSignedIn": "You need to sign in to apply for a study. If you don't have an account yet, click on 'Register as Volunteer' to create one.",
+            "PendingRegistration": "You need to request a visit with the lab in order to complete your registration process before applying for a study. You can do this from your Profile page.",
+            "NotActive": "Your profile status does not allow you to apply for a study. Please contact the laboratory.",
+            "InvalidGender": "This study does not match your gender.",
+            "AlreadyLinkedToStudy": "You cannot apply multiple times to the same study.",
+            "PediatricStudy": "This study is a pediatric study and is only recruiting children. Note that to be able to participate, your children also need to have an Active profile, to match the study gender criteria and can only be added to the study once.",
+            "ErrorInValidating": "Error occurred while validating the volunteer",
+            "VolunteerNotFound": "Volunteer not found",
+            "ErrorFetchingData": "Error Fetching Active Studies"
+        }
+    },
+    "ApplyStudy": {
+        "ApplyingForStudy": "Applying For Study",
+        "Close": "Close",
+        "ProductDescription": "Product Description",
+        "Gender": "Gender",
+        "Age": "Age",
+        "Payment": "Payment",
+        "ChildSelection": "Child Selection",
+        "Survey": "Survey",
+        "Availability": "Availability",
+        "Previous": "Previous",
+        "Next": "Next",
+        "Save": "Submit Applications",
+        "toText": "to",
+        "UpdateError": "An error occured while applying for the study",
+        "UpdateSuccess": "Your application for the study has been successfully submitted",
+        "ViewOtherActiveStudies": "View other active studies",
+        "SelectGroupHeader": "Please select the group(s) for which you are available. You can select more than one group",
+        "AvailabilityPreference": "If you have preferences or additional information for your availability, please add them here.",
+        "SelectChildHeader": "The pediatric study is restricted to children. You must select the child you want to apply to the study",
+        "yrs": "yrs",
+        "ViewDetails": "View Details",
+        "HideDetails": "Hide Details",
+        "Validation": {
+            "VolunteerNotFound": "Volunteer not found",
+            "GroupNotSelected": "Study group not selected",
+            "InvalidStudyStatus": "Invalid study Status",
+            "InvalidGender": "This study does not match your gender",
+            "InvalidVolunteerStatus": "Your profile status does not allow you to apply for a study",
+            "InvalidDuplicateVolunteer": "You cannot apply multiple times to the same study",
+            "InvalidLegalStatusForPediatricStudy": "This study is a pediatric study and is only recruiting children",
+            "InvalidLinkedVolunteerId": "The survey required to apply for the study has been changed. Please apply to the study again."
+        },
+        "FetchSurveyError": "An error occured while trying to fetch the survey."
+    },
+    "StudyDetail": {
+        "StudyInfo": "STUDY INFO",
+        "ProductDescription": "PRODUCT DESCRIPTION",
+        "Gender": "Gender",
+        "Age": "Age",
+        "Payment": "Payment",
+        "ApplyingForStudy": "Apply for this Study",
+        "StudyDescription": "STUDY DESCRIPTION",
+        "Planning": "PLANNING",
+        "ErrorFetchingData": "Error Fetching Study Details"
+    },
+    "StudyVolunteer": {
+        "StudyInfo": "Study Info",
+        "Group": "Group",
+        "ParticipationStatus": "Participation Status",
+        "PaymentStatus": "Payment Status",
+        "NotLinkedText_Start": "You have not yet applied to a study. You can browse through our ",
+        "LINK_LABEL": "Active Studies",
+        "NotLinkedText_End": " list to see and apply to the studies we are currently recruiting for.",
+        "ErrorFetchingData": "Error Fetching Study Volunteer Details",
+        "ParticipationStatusText": {
+            "Applied": "Applied",
+            "Application Hold": "Application Hold",
+            "Waiting for Feedback": "Waiting for Feedback",
+            "Application Accepted": "Application Accepted",
+            "Application Rejected": "Application Rejected",
+            "Included": "Included",
+            "Withdrawn": "Withdrawn"
+        },
+        "PaymentStatusText": {
+            "Pending": "Pending",
+            "Payment Due": "Payment Due",
+            "Paid": "Paid",
+            "Payment Failed": "Payment Failed",
+            "Cancelled": "Cancelled"
+        },
+        "ReasonForRejectionText": {
+            "Does not match criteria": "Does not match criteria",
+            "Not available": "Not available",
+            "Within exclusion period": "Within exclusion period",
+            "Recruitment Complete": "Recruitment Complete",
+            "Study/Volunteer Group Cancelled": "Study/Volunteer Group Cancelled",
+            "Participating in another Study": "Participating in another Study"
+        },
+        "ReasonForWithdrawalText": {
+            "Cancellation > 48 hours": "Cancellation > 48 hours",
+            "Cancellation < 48 hours": "Cancellation < 48 hours",
+            "Late": "Late",
+            "No show": "No show",
+            "Does not match criteria": "Does not match criteria",
+            "Non compliance with requirements": "Non compliance with requirements",
+            "Withdrawal": "Withdrawal",
+            "Resignation": "Resignation",
+            "Reaction": "Reaction",
+            "Internal decision": "Internal decision"
+        }
+    }
+
+}

@@ -1,0 +1,17 @@
+{
+    "UnSavedChanges": " Any unsaved change will be lost when quitting the screen. Do you want to continue?",
+    "Continue": "Confirm",
+    "Yes": "Yes",
+    "No": "No",
+    "ErrorWhileFetchingLabSiteDetails": "Error while Fetching Labsite Details.",
+    "Footer":{
+        "PrivacyPolicyText": "Privacy Policy"
+
+    },
+    "LabsiteInformation":{
+        "DataPrivacyPageHeaderText": "Data Privacy",
+        "TermsOfUseHeaderText": "Terms Of Use",
+        "VolunteerRulesPageHeaderText": "Volunteer Rules",
+        "ErrorWhileFetchingLabsiteInformation": "Error while Fetching Information Details."
+    }
+}
